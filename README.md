@@ -2,7 +2,7 @@
 
 A Simulink model of a second-order mechanical **spring-mass-damper** system, built from basic blocks (gain, sum, integrators) and driven by a unit step force.
 
-![Simulink model](images/smd_model.png)
+![Simulink model](images/smd_model.jpeg)
 
 ## Governing equation
 
@@ -49,7 +49,7 @@ X(s)/F(s) = 1 / (2s² + 3s + 3)
 
 A smooth underdamped step response: starts at 0 with zero slope, overshoots to about 0.365 near t ≈ 3.2 s, then settles at 0.333 within about 6 s.
 
-![Scope output](images/scope_output.png)
+![Scope output](images/scope_output.jpeg)
 
 ## How to run
 
