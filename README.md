@@ -49,7 +49,7 @@ X(s)/F(s) = 1 / (2s² + 3s + 3)
 
 A smooth underdamped step response: starts at 0 with zero slope, overshoots to about 0.365 near t ≈ 3.2 s, then settles at 0.333 within about 6 s.
 
-![Scope output](scope_output.jpeg)
+![Scope output](Scope_output.jpeg)
 
 ## How to run
 
